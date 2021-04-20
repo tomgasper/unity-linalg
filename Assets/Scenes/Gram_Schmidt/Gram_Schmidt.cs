@@ -4,7 +4,7 @@ using UnityEngine;
 
 using System;
 
-public class Lines : MonoBehaviour
+public class Gram_Schmidt : MonoBehaviour
 {
     /*  A matrix:         Q matrix:
         [       ]     [               ]
